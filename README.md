@@ -1,4 +1,4 @@
 rd
 ==
 
-Research Day Abstract Submission Application
+RD Abstract Submission Application
